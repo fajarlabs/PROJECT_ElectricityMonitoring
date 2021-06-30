@@ -26,3 +26,4 @@ Low Power Module<br />
 Include Camera For Monitoring Via Telegram<br />
 Monitoring Temperature & Humidity<br />
 Wifi<br />
+Custom Integrated<br />
