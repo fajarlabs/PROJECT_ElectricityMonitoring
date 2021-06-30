@@ -8,7 +8,7 @@ Ketika listrik dalam keadaan ON maka, sensor listrik akan dibaca oleh controller
 Kondisi ketika listrik hidup (ON)<br /><br />
 <a href="https://ibb.co/PtvyxqD"><img src="https://i.ibb.co/7bdDvsk/monitor-Shutdown-ON.png" alt="monitor-Shutdown-ON" border="0"></a><br />
 <br />
-Kondisi ketika listrik padam (OFF)<br /><br />
+Kondisi ketika listrik padam (Blackout)<br /><br />
 <a href="https://ibb.co/m0XHb3r"><img src="https://i.ibb.co/RNBCYqG/monitor-Shutdown.png" alt="monitor-Shutdown" border="0"></a></a>
 
 # Integration
