@@ -19,7 +19,7 @@ Menggunakan bahasa pemrograman C/C++ / Python (optional)
 
 # External Software
 Telegram / download disini <a href="https://zee.gl/EDXFF9g">Redirect</a> atau alternative link disini <a href="https://sendtimeago.xyz/EDXFF9g">Alternative</a><br />
-<img style="width:300px;height:300px;" src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/00/41/27/00412752-4a36-f6bf-8a85-0840b1607c3a/AppIcon-85-220-0-4-2x.png/1200x630bb.png" /><br />
+<img width="300" height="300" src="https://is3-ssl.mzstatic.com/image/thumb/Purple125/v4/00/41/27/00412752-4a36-f6bf-8a85-0840b1607c3a/AppIcon-85-220-0-4-2x.png/1200x630bb.png" /><br />
 
 # Gallery
 <img src="https://www.anakkendali.com/wp-content/uploads/2021/01/modul-esp-32-P10.jpg" /><br />
