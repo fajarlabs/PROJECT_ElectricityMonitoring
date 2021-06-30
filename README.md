@@ -6,7 +6,7 @@ Ketika listrik dalam keadaan ON maka, sensor listrik akan dibaca oleh controller
 
 # Wiring Diagram
 Kondisi ketika listrik hidup (ON)<br /><br />
-<a href="https://ibb.co/n77btMZ"><img src="https://i.ibb.co/ZBBV7zt/monitor-Shutdown-OFF.png" alt="monitor-Shutdown-OFF" border="0"></a><br />
+<a href="https://ibb.co/PtvyxqD"><img src="https://i.ibb.co/7bdDvsk/monitor-Shutdown-ON.png" alt="monitor-Shutdown-ON" border="0"><br />
 <br />
 Kondisi ketika listrik padam (OFF)<br /><br />
-<a href="https://ibb.co/PtvyxqD"><img src="https://i.ibb.co/7bdDvsk/monitor-Shutdown-ON.png" alt="monitor-Shutdown-ON" border="0"></a>
+<a href="https://ibb.co/m0XHb3r"><img src="https://i.ibb.co/RNBCYqG/monitor-Shutdown.png" alt="monitor-Shutdown" border="0"></a></a>
