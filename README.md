@@ -12,7 +12,7 @@ Kondisi ketika listrik padam (Blackout)<br /><br />
 <a href="https://ibb.co/m0XHb3r"><img src="https://i.ibb.co/RNBCYqG/monitor-Shutdown.png" alt="monitor-Shutdown" border="0"></a></a>
 
 # Integration
-System bisa di integrasikan ke panel controller untuk kepentingan seperti menyalakan GENSET, menyalakan ALARM atau bisa dipakai untuk TRIGGER.
+System bisa di integrasikan ke panel controller untuk kebutuhan tambahan seperti menyalakan GENSET, menyalakan ALARM atau bisa dipakai untuk TRIGGER.
 
 # Language Code
 Menggunakan bahasa pemrograman C/C++ / Python (optional)
