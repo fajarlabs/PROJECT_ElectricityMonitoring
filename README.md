@@ -28,7 +28,7 @@ Telegram / download disini <a href="https://zee.gl/EDXFF9g">Redirect</a> atau al
 
 # Features
 Low Power Module<br />
-Include Camera For Monitoring Via Telegram<br />
+Include Camera For Monitoring Via Telegram <b> If Module Supported<b/><br/>
 Monitoring Temperature & Humidity<br />
 Wifi<br />
 Buzzer Failure System<br />
