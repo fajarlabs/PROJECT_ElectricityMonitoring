@@ -26,4 +26,5 @@ Low Power Module<br />
 Include Camera For Monitoring Via Telegram<br />
 Monitoring Temperature & Humidity<br />
 Wifi<br />
+Buzzer Failure System<br />
 Custom Integrated<br />
