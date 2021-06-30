@@ -28,3 +28,10 @@ Monitoring Temperature & Humidity<br />
 Wifi<br />
 Buzzer Failure System<br />
 Custom Integrated<br />
+
+# Parts
+Box Panel<br />
+Module Controller<br />
+Battery 12V VRLA atau sejenisnya<br />
+Cable Serabut 10-40 inti<br />
+Industrial Relay<br />
