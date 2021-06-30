@@ -14,8 +14,11 @@ Kondisi ketika listrik padam (OFF)<br /><br />
 # Integration
 System bisa di integrasikan ke panel controller untuk kepentingan seperti menyalakan GENSET, menyalakan ALARM atau bisa dipakai untuk TRIGGER.
 
-# Code
-Menggunakan bahasa pemrograman C/C++
+# Language Code
+Menggunakan bahasa pemrograman C/C++ / Python (optional)
+
+# External Software
+Telegram / download disini <a href="https://zee.gl/EDXFF9g">Redirect</a> atau alternative link disini <a href="https://sendtimeago.xyz/EDXFF9g">Alternative</a><br />
 
 # Gallery
 <img src="https://www.anakkendali.com/wp-content/uploads/2021/01/modul-esp-32-P10.jpg" /><br />
