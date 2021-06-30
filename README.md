@@ -24,6 +24,7 @@ Telegram / download disini <a href="https://zee.gl/EDXFF9g">Redirect</a> atau al
 # Gallery
 <img src="https://www.anakkendali.com/wp-content/uploads/2021/01/modul-esp-32-P10.jpg" /><br />
 <img src="https://www.anakkendali.com/wp-content/uploads/2021/01/IMG_20210129_221815-1024x579.jpg" /><br />
+<a href="https://ibb.co/09BVRmG"><img src="https://i.ibb.co/ZgH1pGM/Whats-App-Image-2021-07-01-at-12-32-43-AM.jpg" alt="Whats-App-Image-2021-07-01-at-12-32-43-AM" border="0"></a><br />
 
 # Features
 Low Power Module<br />
