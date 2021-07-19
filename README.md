@@ -1,4 +1,4 @@
-# project02-ElectricityMonitoring
+# ElectricityMonitoring
 Electricity Monitoring System
 
 # How it work
